@@ -1,0 +1,2 @@
+These are solutions for the "Python Village" problems on rosalind.info. 
+These problems are very simple and aim to acquaint one with Python basics.

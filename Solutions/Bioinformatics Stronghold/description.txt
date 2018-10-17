@@ -1,0 +1,4 @@
+These are all Rosalind problems from the "Bioinformatics Stronghold" section. 
+These are all introducing basic programming concepts through bioinformatics applications.
+
+Solutions are given in Python, and sometimes, in R.
